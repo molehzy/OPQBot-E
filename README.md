@@ -4,11 +4,13 @@
 
 ### 如何使用
 ----
-1. 部署[OPQBot](https://github.com/OPQBOT/OPQ)并登陆
+1. 部署OPQBot \([安装指南](https://github.com/OPQBOT/OPQ/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)\)
 2. 直接克隆本仓库
 3. 打开主程序填入地址和QQ并连接即可
 
 ### 插件开发
+
 ----
 打开主目录的mydll.e自行体会
+
 API模块不是必须的
